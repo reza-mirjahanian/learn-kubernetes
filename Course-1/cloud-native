@@ -1,0 +1,15 @@
+
+## Cloud Native 
+Cloud Native is a style of application development that encourages easy scaling and resiliency. It's about how applications are created and deployed, not where. Here are some key characteristics of Cloud Native applications:
+
+1. **Microservices architecture**: Cloud Native applications are often built as a collection of microservices that run independently of each other. This allows for each service to be developed, deployed, and scaled independently.
+
+2. **Containerization**: Cloud Native applications are often packaged in containers. Containers are lightweight, standalone, and executable packages that include everything needed to run a piece of software, including the code, a runtime, libraries, environment variables, and config files.
+
+3. **Orchestration**: With the use of containers and microservices, orchestration becomes a necessity. Orchestration tools like Kubernetes help manage and scale these containers.
+
+4. **DevOps Practices**: Cloud Native development often involves DevOps practices like continuous integration/continuous delivery (CI/CD), infrastructure as code (IaC), and policy as code.
+
+5. **Observability and Analysis**: Cloud Native applications often include built-in tools for logging, monitoring, and tracing to help understand the behavior of the applications.
+
+Remember, Cloud Native is a methodology for building applications, not a tool or a service. It's about building and running scalable applications in modern, dynamic environments such as public, private, and hybrid clouds.
